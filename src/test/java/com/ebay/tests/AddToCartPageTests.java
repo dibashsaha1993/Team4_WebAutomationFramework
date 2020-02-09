@@ -13,6 +13,7 @@ import junit.framework.Assert;
 public class AddToCartPageTests extends BaseTest{
 	
 	public AddToCartPageTests() throws Exception {
+		
 		super();
 	}
 	
